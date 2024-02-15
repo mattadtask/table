@@ -1,0 +1,38 @@
+{
+  "tables": [{
+    "url": "assets/images/table.png",
+    "size": { "width": 0, "height": 0 },
+    "sits": [
+      { "x": 55, "y": 35, "width": 0, "height": 0 },
+      { "x": 55, "y": 285, "width": 0, "height": 0 },
+      { "x": 55, "y": 535, "width": 0, "height": 0 },
+      { "x": 55, "y": 785, "width": 0, "height": 0 },
+      { "x": 55, "y": 1035, "width": 0, "height": 0 },
+      { "x": 55, "y": 1285, "width": 0, "height": 0 },
+      { "x": 755, "y": 35, "width": 0, "height": 0 },
+      { "x": 755, "y": 285, "width": 0, "height": 0 },
+      { "x": 755, "y": 535, "width": 0, "height": 0 },
+      { "x": 755, "y": 785, "width": 0, "height": 0 },
+      { "x": 755, "y": 1035, "width": 0, "height": 0 },
+      { "x": 755, "y": 1285, "width": 0, "height": 0 }
+    ],
+    "meals": [
+      { "x": 355, "y": 35, "width": 0, "height": 0 },
+      { "x": 355, "y": 285, "width": 0, "height": 0 },
+      { "x": 355, "y": 535, "width": 0, "height": 0 },
+      { "x": 355, "y": 785, "width": 0, "height": 0 },
+      { "x": 355, "y": 1035, "width": 0, "height": 0 },
+      { "x": 355, "y": 1285, "width": 0, "height": 0 }
+    ]
+  }],
+  "tableWares": [
+    { "name": "plate1", "url": "assets/images/plate1.png" },
+    { "name": "plate2", "url": "assets/images/plate2.png" },
+    { "name": "plate3", "url": "assets/images/plate3.png" }
+  ],
+  "meals": [
+    { "name": "dish1", "url": "assets/images/dish1.png" },
+    { "name": "dish2", "url": "assets/images/dish2.png" },
+    { "name": "dish3", "url": "assets/images/dish3.png" }
+  ]
+}

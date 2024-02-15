@@ -1,0 +1,22 @@
+.table {
+  transform: rotate(90deg);
+  transform-origin: center right;
+}
+
+.set-item-type {
+  position: absolute;
+  top: 25px;
+  right: 50px;
+}
+
+.table-slot, .choose-item-for-slot {
+  position: absolute;
+  cursor: pointer;
+}
+
+.buttons {
+  position: absolute;
+  z-index: 1;
+  left: 100px;
+  top: 25px;
+}

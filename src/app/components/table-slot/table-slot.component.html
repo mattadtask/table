@@ -1,0 +1,6 @@
+<ng-container>
+  <img *ngIf="imgSrc?.length; else addButton" [src]="imgSrc" alt="" class="slot-img">
+  <ng-template #addButton>
+    <img *ngIf="active" src="assets/images/addButton.svg" alt="+" [width]="'50'" [height]="'50'">
+  </ng-template>
+</ng-container>
